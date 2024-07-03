@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" alt="Logo UNIR" width="250"/>
+</p>
+
+
 # Machine Learning para el cálculo de precios dinámicos en una empresa de eventos al aire libre
 
 ![Licencia](https://img.shields.io/badge/licencia-MIT-blue.svg)
@@ -31,13 +36,13 @@ Antes de instalar y ejecutar este proyecto, asegúrate de tener instalados los s
 
 - Python 3.x
 - Librerías Python:
-    ->Tratamiento de datos: Numpy y Pandas
-    ->Gráficas: matplotlib
-    ->Modelos de machine Learning: sklearn
+    - Tratamiento de datos: Numpy y Pandas
+    - Gráficas: matplotlib
+    - Modelos de machine Learning: sklearn
 
 ## Estructura del Proyecto
 
-nombre-del-repo/
+TFM_UNIR_VISUAL_BIG_DATA/
 ├── data/
 │ ├── Model Data/ # Datos para entrenar el modelo
 │ └── PowerBI Data/ # Datos para generar las visualizaciones
@@ -57,7 +62,7 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos para contribuir
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta la descripción de la licencia [LICENSE]((https://opensource.org/license/mit).
 
 ## Contacto
 
